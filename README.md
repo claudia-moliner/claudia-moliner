@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Claudia Moliner 👋
 
-<!--
-**claudia-moliner/claudia-moliner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst passionate about transforming raw data into 
+clear business insights. I work with Python, SQL, and BI tools 
+to build end-to-end analytics solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
+- **Languages:** Python, SQL, R
+- **Data & Analytics:** Pandas, NumPy, DuckDB, PostgreSQL
+- **Visualization:** Power BI, Plotly, Matplotlib, Seaborn
+- **Other:** Excel, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 What I'm Building
+I'm currently developing a portfolio of real-world data analytics 
+projects from data warehouses to interactive dashboards.
+
+## 📫 Let's Connect
+- 📧 cmolinercalvet@gmail.com
