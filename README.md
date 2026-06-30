@@ -15,4 +15,4 @@ I'm currently developing a portfolio of real-world data analytics
 projects from data warehouses to interactive dashboards.
 
 ## Let's Connect
-- 📧 cmolinercalvet@gmail.com
+- cmolinercalvet@gmail.com
